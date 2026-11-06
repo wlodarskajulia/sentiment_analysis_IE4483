@@ -3,4 +3,11 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .env
-notebooks/baseline_models.pkl
+notebooks/baseline_models.pklnotebooks/review_model/
+*.safetensors
+*.pt
+*.pth
+*.bin
+.venv/
+__pycache__/
+.ipynb_checkpoints/
